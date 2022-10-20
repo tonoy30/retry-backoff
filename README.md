@@ -1,1 +1,1 @@
-# Retry External Api Call on specific error
+# Retry with back off on external API call on specific error
